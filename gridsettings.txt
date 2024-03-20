@@ -1,0 +1,11 @@
+Desktop Settings
+
+Gutter: 20px / Count 12 / Type: Stretch / Margin: Depends on your container
+
+Tablet Settings
+
+Gutter: 16px / Count: 8 / Type: Stretch / Margin: 32px
+
+Mobile Settings
+
+Gutter: 12px / Count: 4 / Type: Stretch / Margin: 12px
